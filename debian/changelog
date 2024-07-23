@@ -1,3 +1,16 @@
+haskell-distributive (1.6.2.1-2deepin1) unstable; urgency=medium
+
+  * Update version to 0.6.2.1-2deepin1(No code changes!)
+
+ -- hudeng <hudeng@deepin.org>  Tue, 23 Jul 2024 11:40:46 +0800
+
+haskell-distributive (0.6.2.1-2) unstable; urgency=medium
+
+  * Declare compliance with Debian policy 4.6.2
+  * Sourceful upload for GHC 9.4
+
+ -- Ilias Tsitsimpis <iliastsi@debian.org>  Sun, 03 Sep 2023 19:12:32 +0300
+
 haskell-distributive (0.6.2.1-1) unstable; urgency=medium
 
   * New upstream version.
